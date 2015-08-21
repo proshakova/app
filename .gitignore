@@ -13,3 +13,4 @@
 /tmp
 /config/*
 /config
+database.yml
